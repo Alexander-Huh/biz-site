@@ -1,0 +1,116 @@
+/* ----------------------------ID's */
+#footer{
+    margin-bottom: 0%;
+    padding: 1px;
+    background-color: black;
+    color: white;
+}
+/* ----------------------------spacing */
+.top_padding{
+    padding-top: 2vw;
+}
+.text{
+    padding: 1vw;
+}
+.bottom_padding{
+    padding-bottom: 1vw;
+}
+.right_padding{
+    padding-right: 25px;
+}
+.top_header_padding{
+    padding-top: 25px;
+    padding-left: 25px;
+}
+.top_margin{
+    margin-top: 5vw;
+}
+.left{
+    text-align: left;
+}
+.center{
+    text-align: center;
+}
+.img_padding{
+    padding: 1vw;
+}
+.right{
+    text-align: right;
+}
+.header_gap{
+    padding: 2vw;
+    padding-left: 5vw;
+}
+.bottom_margin{
+    margin-bottom: 16vw;
+}
+/* -----------------------------------------color */
+.bg_color{
+    background-color: rgba(154, 194, 212, 0.877);
+}
+.bg_color_header{
+    background-color: rgba(0, 148, 185, 0.466);
+}
+.phone_underline{
+    
+}
+/* ----------------------fonts/text */
+.bold{
+    font-weight: 900;
+    font-size:1.25em;
+}
+.font{
+    font-size:larger;
+    font-weight: 600;
+    text-indent: 1vw;
+    padding-top: 0.5vw;
+    /* font-family: 'Cairo', sans-serif; */
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+/* --------------------------------------------sizing */
+.img_size{
+    width: 100%;
+    height: auto;
+}
+.first_img_size{
+    width: 100%;
+    height: 48%;
+}
+.middle_img_size{
+    width: 100%;
+    height: 48%;
+}
+.profile_img{
+    width: 100%;
+    height: 90%;
+}
+/* ----------------------------------------tags */
+body{
+    background-color: rgb(199, 108, 108);
+
+    background: url("../img/bg_img.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+p{
+    font-size:larger;
+    font-weight: 600;
+    text-indent: 1vw;
+    padding-top: 0.5vw;
+    /* font-family: 'Cairo', sans-serif; */
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+h3{
+    font-family:  'Aldrich', sans-serif;
+    font-weight: 500;
+}
+h1, h5{
+    font-family:  'Aldrich', sans-serif;
+}
+hr{
+    border: 0;
+    height: 3px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
